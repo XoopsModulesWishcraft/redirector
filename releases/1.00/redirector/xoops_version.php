@@ -1,5 +1,5 @@
 <?php
-// $Id: xoops_version.php 2712 2009-01-22 10:06:01Z phppp $
+// $Id$
 //  ------------------------------------------------------------------------ //
 //                XOOPS - PHP Content Management System                      //
 //                    Copyright (c) 2000 XOOPS.org                           //
